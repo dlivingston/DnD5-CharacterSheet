@@ -1,0 +1,23 @@
+{
+  "name": "dnd5-character-sheet",
+  "version": "1.0.0",
+  "description": "Dungeons And Dragons 5th Edition Chracter Sheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlivingston/DnD5-CharacterSheet.git"
+  },
+  "author": "Don Livingston",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dlivingston/DnD5-CharacterSheet/issues"
+  },
+  "homepage": "https://github.com/dlivingston/DnD5-CharacterSheet#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}

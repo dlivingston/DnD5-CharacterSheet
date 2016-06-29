@@ -1,0 +1,20 @@
+{
+  "name": "dnd5-character-sheet",
+  "description": "Dungeons And Dragons 5th Edition Chracter Sheet",
+  "main": "index.js",
+  "authors": [
+    "Don Livingston"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dlivingston/DnD5-CharacterSheet",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "v4.0.0-alpha.2"
+  }
+}
